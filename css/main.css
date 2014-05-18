@@ -108,8 +108,9 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   All page styles
    ========================================================================== */
+
 
 html {
     width:100%;
@@ -123,6 +124,11 @@ html {
     padding-bottom:1%;
     min-height:846px;
 }
+
+
+/* ==========================================================================
+   Body styles
+   ========================================================================== */
 
 #primarylogo {
     min-width:100%;
@@ -148,16 +154,32 @@ html {
     
 }
 
-a#address:hover {
-    text-decoration: none;
-    color:black;
+.form-group {
+    width:200px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    color:#5d1d13;
+    font-family: 'Junction', sans-serif;
+    font-size: 20px;
 }
 
-a#footer:hover {
-    text-decoration: none;
-    color:white;
- }
+#submit {
+    display:block;
+    margin-bottom:2%;
+    margin-left:auto;
+    margin-right:auto;
+}
 
+#eaterlogo {
+    text-align: center;
+    margin-top:20%;
+}
+
+#enoteca {
+    text-align: center;
+    margin-top:20%;
+}
 
 .video-container {
     position: relative;
@@ -180,7 +202,7 @@ a#footer:hover {
 h2 {
     color:#5d1d13;
     font-family: 'Junction', sans-serif;
-    text-align: center
+    text-align: center;
 }
 
 p {
@@ -189,15 +211,22 @@ p {
     color:black;
 }
 
+/* ==========================================================================
+   Footer Styles
+   ========================================================================== */
+
 
 #footertext {
     text-align: center;
     font-style: italic;
     color:white;
+  
+
 }
 
 #footertext a {
     color:white;
+
 }
 
 #footer {
@@ -207,8 +236,25 @@ p {
     padding:2.5%;
     box-shadow: inset -2px 16px 17px 0px rgba(0,0,0,0.45);
 
-
 }
+
+#vintagelink {
+
+    font-family: 'Junction', sans-serif;
+}
+
+#newslink {
+     font-family: 'Junction', sans-serif;
+}
+a#address:hover {
+    text-decoration: none;
+    color:black;
+}
+
+a#footer:hover {
+    text-decoration: none;
+    color:white;
+ }
 
 
 
