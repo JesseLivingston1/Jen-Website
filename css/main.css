@@ -164,7 +164,7 @@ html {
     font-size: 20px;
 }
 
-#submit {
+#email_submit {
     display:block;
     margin-bottom:2%;
     margin-left:auto;
@@ -209,6 +209,15 @@ p {
     font-family: 'Junction', sans-serif;
     text-align: center;
     color:black;
+}
+
+
+.three-col {
+    margin-top: 3em;
+}
+
+.email-sign-up {
+    text-align: center;
 }
 
 /* ==========================================================================
