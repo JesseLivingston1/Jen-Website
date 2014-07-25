@@ -220,14 +220,17 @@ p {
     text-align: center;
 }
 
-#imgContainer li{
-    max-width:800px;
-}
 
 #imgContainer {
     max-width: 800px;
     margin-right: auto;
     margin-left: auto;
+    margin-top: 5%;
+}
+
+#imgContainer li {
+    margin: 5px;
+    padding: 5px;
 }
 
 /* ==========================================================================

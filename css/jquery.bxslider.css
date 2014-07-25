@@ -38,6 +38,8 @@
 	border:  5px solid #fff;
 	left: -5px;
 	background: #fff;
+	margin: 0;
+	padding: 0;
 	
 	/*fix other elements on the page moving (on Chrome)*/
 	-webkit-transform: translatez(0);
