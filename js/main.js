@@ -33,5 +33,8 @@ $("#email_submit").click(function() {
 });
 
 $(document).ready(function(){
-  $('.bxslider').bxSlider();
+	$('.bxslider').bxSlider({
+		auto: true,
+		mode: 'fade'
+	});
 });
