@@ -238,16 +238,16 @@ p {
    ========================================================================== */
 
 
-#footertext {
+.footertext {
     text-align: center;
     font-style: italic;
     color:white;
   
-
 }
 
-#footertext a {
+.footertext a {
     color:white;
+    text-decoration: underline;
 
 }
 
