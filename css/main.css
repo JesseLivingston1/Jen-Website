@@ -222,17 +222,16 @@ p {
 
 
 #imgContainer {
-    max-width: 630px;
-    max-height: 478px;
+    max-width: 600px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 5%;
 }
-
+/*
 #imgContainer li {
     margin: 5px;
     padding: 5px;
-}
+}*/
 
 /* ==========================================================================
    Footer Styles
