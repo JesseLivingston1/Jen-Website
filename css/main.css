@@ -222,7 +222,8 @@ p {
 
 
 #imgContainer {
-    max-width: 800px;
+    max-width: 630px;
+    max-height: 478px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 5%;
