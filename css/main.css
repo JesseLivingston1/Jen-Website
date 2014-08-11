@@ -198,7 +198,7 @@ html {
 
 
 
-h2 {
+h2, h1 {
     color:#5d1d13;
     font-family: 'Junction', sans-serif;
     text-align: center;
